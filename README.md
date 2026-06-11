@@ -1,1 +1,1 @@
-https://github.com/vladben981-maker/ono-tebe-nado-ad.git
+https://github.com/vladben981-maker/ono-tebe-nado-ad/blob
